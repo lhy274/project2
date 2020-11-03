@@ -8,6 +8,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("안녕하세요");
 		System.out.println("반갑습니다.");
+
 		System.out.println("Hello");
 		System.out.println("안녕하세요");
 		System.out.println("반갑습니다.");
@@ -25,8 +26,13 @@ public class Test {
 		System.out.println("안녕하세요");
 		System.out.println("반갑습니다.");
 		System.out.println("Hello");
-		
-		
+
+		System.out.printf("안녕");
+		int a;
+
+		System.out.println("안녕");
+		System.out.println("Hello~java");
+
 	}
 
 }
