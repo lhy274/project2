@@ -13,7 +13,7 @@ public class Test {
 		System.out.println("안녕하세요");
 		System.out.println("반갑습니다.");
 		System.out.println("Hello");
-		ArrayList[] list = new ArrayList[5];
+		ArrayList[] list = new ArrayList[5]; 
 		System.out.println("안녕하세요");
 		System.out.println("반갑습니다.");
 		System.out.println("Hello");
@@ -28,10 +28,14 @@ public class Test {
 		System.out.println("Hello");
 
 		System.out.printf("안녕");
-		int a;
+		int a = 2134213444;
+		int b = 2138080219;
+		int c = a*b;
 
 		System.out.println("안녕");
 		System.out.println("Hello~java");
+		
+		System.out.printf("%d x %d = %d ", a, b, c);
 
 	}
 
